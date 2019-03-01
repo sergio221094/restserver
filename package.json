@@ -1,0 +1,15 @@
+{
+  "name": "restserver",
+  "version": "1.0.0",
+  "description": "Rest server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sergio Velásquez",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  }
+}
